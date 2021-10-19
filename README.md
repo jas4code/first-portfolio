@@ -15,5 +15,5 @@ This is the website that I can say "_I created using the knowledge I gained from
 
 _**Disclaimer:** Some of the design ideas are gathered from my favorite websites/blogsites, in order to create this website idea._ 
 
-> _**PS:** Everthing inside this repository is open constructive criticism, and ssuggestions.
+> _**PS:** Everthing inside this repository is open for constructive criticism, and ssuggestions.
 I am willing to learn from you guys!_
