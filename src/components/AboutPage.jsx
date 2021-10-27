@@ -34,7 +34,7 @@ function AboutPage() {
 
         <div className='max-w-screen-xl mx-auto sm:mt-7 lg:mt-10'>
           <div className='text-center mb-4 sm:mb-7 lg:mb-10'>
-            <h2 className='page-title'>Soft Skills</h2>
+            <h2 className='page-title'>Technical Skills</h2>
             <p className='md:text-lg'>Lorem ipsum dolor sit amet.</p>
           </div>
           <div className='card-container'>

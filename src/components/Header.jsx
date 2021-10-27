@@ -8,7 +8,7 @@ function Header() {
       <p className='breadcrumbs'>
         <Link to='/' className='b-inactive'>
           Home
-        </Link>{" "}
+        </Link>
         | <span className='b-active'>lorem</span>
       </p>
     </div>

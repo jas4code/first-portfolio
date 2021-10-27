@@ -39,7 +39,7 @@ function Hero() {
             href='https://twitter.com/'
             target='_blank'
             rel='noopener noreferrer'>
-            <div className='hero-sites hover:text-blue-100 sm:hover:bg-blue-400 hover:border-blue-500'>
+            <div className='hero-sites hover:text-blue-500 sm:hover:bg-blue-300'>
               <FontAwesomeIcon icon={faTwitter}></FontAwesomeIcon>
             </div>
           </a>
@@ -47,7 +47,7 @@ function Hero() {
             href='https://github.com/'
             target='_blank'
             rel='noopener noreferrer'>
-            <div className='hero-sites  hover:text-gray-100 sm:hover:bg-gray-500 hover:border-gray-600'>
+            <div className='hero-sites  hover:text-gray-600 sm:hover:bg-gray-400'>
               <FontAwesomeIcon icon={faGithub}></FontAwesomeIcon>
             </div>
           </a>
@@ -55,7 +55,7 @@ function Hero() {
             href='https://linkedin.com/'
             target='_blank'
             rel='noopener noreferrer'>
-            <div className='hero-sites hover:text-blue-200 sm:hover:bg-blue-800 hover:border-blue-900'>
+            <div className='hero-sites hover:text-blue-900 sm:hover:bg-blue-600'>
               <FontAwesomeIcon icon={faLinkedin}></FontAwesomeIcon>
             </div>
           </a>
